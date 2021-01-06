@@ -1,0 +1,30 @@
+p.intro {
+    width: 50%;
+    font-style: italic;
+}
+p.author {
+  width: 75%;
+  font-style: Italic;
+  font-weight: bold;
+}
+
+.important {
+  color: red;
+}
+
+.styles{
+  color: green;
+  background-color: grey;
+}
+
+.stylesub{
+  color: aqua;
+  background-color: burlywood;
+}
+
+.stylesub2 {
+  color: blueviolet;
+  background-color: chartreuse;
+  font-style: italic;
+
+}
